@@ -1,0 +1,3 @@
+body { scroll-behavior: smooth; }
+.result p { white-space: pre-wrap; }
+textarea#text { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
